@@ -1,2 +1,2 @@
-# StartNg-JStask-1
-The first JavaScript task
+# StartNg-HTMLtask-1
+The first HTML task
